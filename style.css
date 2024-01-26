@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    padding: 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    border: none;
+    display: block;
+    width: 200px;
+    margin: 5px auto;
+}
